@@ -1,0 +1,3 @@
+[submodule "modul-dua"]
+	path = modul-dua
+	url = https://github.com/harithya/modul-dua.git
